@@ -1,0 +1,42 @@
+.productCard{
+    color: whitesmoke;
+     border: .5px rgba(255, 255, 255, 0.952);
+     box-sizing: border-box;
+     height:400px;
+     width: 250px;
+     box-shadow: 5px 5px 8px 10px;
+ 
+ }
+ .productImgContainer{
+    box-sizing: border-box;
+    height: 200px;
+    width: 100%;
+ }
+ .productImg{
+     object-fit: contain;
+     width: 100%;
+ }
+ .price_symbol{
+     top: -.65em;
+     font-size: 13px;
+     position: relative;
+     color: #0f1111;
+     line-height: normal;
+ }
+ .product_Price{
+     font-size: 28px;
+ 
+ }
+ .prodName{
+    text-Overflow:ellipsis;
+    font-Size:17px;
+    line-Height:20px;
+    text-Decoration:'none';
+    font-Weight:700px;
+    text-Align:'justify';
+     overflow:'hidden';
+ }
+ .descriptn{
+    text-Decoration:"none";
+    font-Size:13px;
+ }
